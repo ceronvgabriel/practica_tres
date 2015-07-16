@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">notas</string>
+    <string name="Quices">Quices Grade: </string>
+    <string name="Exposiciones">Exposition Grade: </string>
+    <string name="Laboratorio">Laboratories Grade: </string>
+    <string name="Proyecto">Final Proyect Grade: </string>
+    <string name="Ingresar"> Enter </string>
+    <string name="boton"> Calculate </string>
+    <string name="promedio"> Average </string>
+    <string name="action_settings">Settings</string>
+
+</resources>

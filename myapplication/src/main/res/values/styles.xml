@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo">
+        <item name="android:textColor">@color/dodgerblue</item>
+    </style>
+    
+    <style name="Buttons" parent="android:Theme.Holo">
+        <item name="android:textColor">@color/dodgerblue</item>
+    </style>
+        
+</resources>
